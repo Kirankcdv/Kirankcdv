@@ -1,16 +1,163 @@
-## Hi there 👋
+# 👋 Hi, I'm Kiran K
 
-<!--
-**Kirankcdv/Kirankcdv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Computer Science Engineering Student | DevOps & Cloud Enthusiast
 
-Here are some ideas to get you started:
+I'm a Computer Science Engineering student focused on **DevOps, Cloud Infrastructure, Automation, and Software Engineering**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy building applications, automating infrastructure, working with containers, and learning how modern software systems are deployed and operated.
+
+---
+
+## 🛠️ Tech Stack
+
+### ☁️ Cloud & DevOps
+
+- AWS
+- Docker
+- Kubernetes
+- Terraform
+- Ansible
+- Jenkins
+- GitHub Actions
+- CI/CD
+- Linux
+- Git & GitHub
+
+### 💻 Programming & Development
+
+- Python
+- Java
+- JavaScript
+- HTML
+- CSS
+- React
+- Node.js
+- Express.js
+
+### 📊 Monitoring & Infrastructure
+
+- Prometheus
+- Grafana
+- Infrastructure as Code
+- Containerization
+- Automation
+- DevSecOps
+
+---
+
+## 🚀 Featured Projects
+
+### ⚙️ Workforce Engine
+
+**Active Workforce Pipeline Engine**
+
+A workforce management platform designed to analyze workforce conditions and provide actionable insights.
+
+**Focus Areas:**
+- Full-stack web development
+- DevOps
+- Cloud infrastructure
+- Automation
+- Workforce analytics
+- Risk monitoring
+
+🔗 [View Project](https://github.com/Kirankcdv/Workforce-engine)
+
+---
+
+### 🌐 VirtualConnect
+
+**Online Conference Management Web Application**
+
+A web application designed to support online conferences and virtual collaboration.
+
+**Technologies:**
+- JavaScript
+- React
+- Node.js
+- Express.js
+- PostgreSQL
+
+🔗 [View Project](https://github.com/Kirankcdv/virtualconnect)
+
+---
+
+### 🏥 Smart Care Pathway
+
+**AI System for Adaptive Care Pathway Recommendation**
+
+A system designed to analyze patient information and provide adaptive care pathway recommendations.
+
+**Technologies:**
+- Python
+- FastAPI
+- React
+- MongoDB
+- Machine Learning
+
+🔗 [View Project](https://github.com/Kirankcdv/smart-care-pathway)
+
+---
+
+## ☸️ Currently Exploring
+
+- ☸️ Kubernetes & Container Orchestration
+- 🐳 Docker & Containerization
+- ☁️ AWS Cloud Infrastructure
+- 🏗️ Terraform & Infrastructure as Code
+- 🔄 CI/CD Automation
+- 🔐 DevSecOps
+- 📊 Prometheus & Grafana
+- 🚀 Platform Engineering
+
+---
+
+## 🎯 What I'm Looking For
+
+I'm interested in opportunities related to:
+
+**DevOps Engineering • Cloud Engineering • Platform Engineering • SRE • Cloud Operations • Backend Development**
+
+I'm particularly interested in working with:
+
+- Real-world infrastructure
+- Cloud platforms
+- CI/CD pipelines
+- Containers & Kubernetes
+- Infrastructure automation
+- Monitoring & observability
+- Backend systems
+- DevSecOps
+
+---
+
+## 📊 GitHub Activity
+
+I actively build and experiment with projects involving:
+
+- ☁️ Cloud Infrastructure
+- 🐳 Containerization
+- ☸️ Kubernetes
+- 🔄 CI/CD Automation
+- 🏗️ Infrastructure as Code
+- 🔐 DevSecOps
+- 🐍 Python & Backend Development
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/kiran-k-933b282a5/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Kirankcdv">
+    <img src="https://img.shields.io/badge/GitHub-Kirankcdv-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+⭐ **Thanks for visiting my profile!**
+
+Feel free to explore my repositories and projects.
