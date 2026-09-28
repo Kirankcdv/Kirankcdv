@@ -111,7 +111,36 @@ A system designed to analyze patient information and provide adaptive care pathw
 - 🚀 Platform Engineering
 
 ---
+---
 
+# 🚀 Featured Projects
+
+### ⚙️ Workforce Engine — DevOps & Cloud
+Active workforce pipeline platform designed to manage workforce operations and assess workforce risk.
+
+**Tech:** Python • JavaScript • React • Node.js • Docker • Kubernetes • AWS • CI/CD
+
+🔗 [View Project](https://github.com/Kirankcdv/Workforce-engine)
+
+---
+
+### 🌐 VirtualConnect — Online Conference Platform
+Web application designed to support online conferences with a modern full-stack architecture.
+
+**Tech:** JavaScript • React.js • Node.js • Express.js • PostgreSQL
+
+🔗 [View Project](https://github.com/Kirankcdv/virtualconnect)
+
+---
+
+### 🏥 Smart Care Pathway — AI Healthcare System
+AI-powered system designed to recommend adaptive care pathways based on patient and disease-related information.
+
+**Tech:** Python • FastAPI • React • MongoDB • Machine Learning
+
+🔗 [View Project](https://github.com/Kirankcdv/smart-care-pathway)
+
+---
 ## 🎯 What I'm Looking For
 
 I'm interested in opportunities related to:
