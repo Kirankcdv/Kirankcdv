@@ -45,59 +45,6 @@ I enjoy building applications, automating infrastructure, working with container
 
 ---
 
-## 🚀 Featured Projects
-
-### ⚙️ Workforce Engine
-
-**Active Workforce Pipeline Engine**
-
-A workforce management platform designed to analyze workforce conditions and provide actionable insights.
-
-**Focus Areas:**
-- Full-stack web development
-- DevOps
-- Cloud infrastructure
-- Automation
-- Workforce analytics
-- Risk monitoring
-
-🔗 [View Project](https://github.com/Kirankcdv/Workforce-engine)
-
----
-
-### 🌐 VirtualConnect
-
-**Online Conference Management Web Application**
-
-A web application designed to support online conferences and virtual collaboration.
-
-**Technologies:**
-- JavaScript
-- React
-- Node.js
-- Express.js
-- PostgreSQL
-
-🔗 [View Project](https://github.com/Kirankcdv/virtualconnect)
-
----
-
-### 🏥 Smart Care Pathway
-
-**AI System for Adaptive Care Pathway Recommendation**
-
-A system designed to analyze patient information and provide adaptive care pathway recommendations.
-
-**Technologies:**
-- Python
-- FastAPI
-- React
-- MongoDB
-- Machine Learning
-
-🔗 [View Project](https://github.com/Kirankcdv/smart-care-pathway)
-
----
 
 ## ☸️ Currently Exploring
 
